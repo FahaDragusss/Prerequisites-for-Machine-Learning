@@ -1,4 +1,4 @@
-These files document my journey in learning the numpy basics.
+These files document my journey in learning the NumPy basics.
 
 
 1: Basic syntax
@@ -18,3 +18,9 @@ These files document my journey in learning the numpy basics.
 8: Searching for elements
 
 9: Filtering [Learning the logic behind the Boolean Index sort]
+
+Why NumPy?
+Faster compared to python lists. 
+We can make n-dimensional arrays.
+Useful fuctions.
+
